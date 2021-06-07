@@ -6,5 +6,12 @@ Nakagawa, T., Tamura, K., Yamaguchi, Y., Matsumoto, N., Matsugi, T., Nakao, H. (
 The number in the name of a directory corresponds to the section number of the supplementary material.
 
 ## 1_chi_squared
-chisq.R: a script to calculate the chi-squared test. The results of the chi-squared test and the effect size (Cramer’s V) are shown.
+- chisq.R: a script to calculate the chi-squared test. The results of the chi-squared test and the effect size (Cramer’s V) are shown.
 
+## 3_effect_of_aggregation
+- simulation.R: a simulation model to investigate possible effects of aggregation.
+- examine_adjustment.R: a script to compare the results of the logistic regression with and without the adjustment.
+- plot_figure1.R: a script to make figure 1 in SI.
+- plot_figure2.R: a script to make figure 2 in SI.
+- make_figure3.R: a script yo make figure 3 in SI.
+- 
