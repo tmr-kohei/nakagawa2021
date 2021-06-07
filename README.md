@@ -1,7 +1,7 @@
 # nakagawa2021
 
 Scripts for:
-Nakagawa, T., Tamura, K., Yamaguchi, Y., Matsumoto, N., Matsugi, T., Nakao, H. (2021) Population pressure and prehistoric violence in the Yayoi period of Japan. Journal of Archaeological Science.
+Nakagawa, T., Tamura, K., Yamaguchi, Y., Matsumoto, N., Matsugi, T., Nakao, H. (2021) Population pressure and prehistoric violence in the Yayoi period of Japan. Journal of Archaeological Science　132: 105420. (doi: 10.1016/j.jas.2021.105420)
 
 The number in the name of a directory corresponds to the section number of the supplementary material.
 
