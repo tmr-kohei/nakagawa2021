@@ -26,3 +26,16 @@ The number in the name of a directory corresponds to the section number of the s
 - table6_glmm_subset_subphase.R: a script to carry out the GLMM where subphase is used as a random effect. Only data points with longer time intarvals (70, 80, and 100 years) are used.
 - table7_glmm_ID.R: a script to carry out the GLMM where ID is used as a random effect.
 - table8_glmm_subset_ID.R: a script to carry out the GLMM where ID is used as a random effect. Only data points with longer time intarvals (70, 80, and 100 years) are used.
+
+## 4-3_zero-inflated_poisson
+- table9_zero_inflated.R: a script to carry our the zero-inflated poisson model.
+- table10_zero_inflated_subset.R: a script to carry our the zero-inflated poisson model. Only data points with longer time intarvals (70, 80, and 100 years) are used.
+- table11_zero_inflated_population_pressure.R: a script to carry our the zero-inflated poisson model.　Population pressure is used as a independent variable in zero-inflation model. 
+- table12_zero_inflated_population_pressure_subset.R: a script to carry our the zero-inflated poisson model.　Population pressure is used as a independent variable in zero-inflation model. Only data points with longer time intarvals (70, 80, and 100 years) are used.
+
+## 5_GIS
+A directory correpsonds to a subregion. Currently, the directory for DEM files are blank. Please download files listed in filelist.txt from Geospatial Information Authority of Japan (https://fgd.gsi.go.jp/download/menu.php).
+calc_area.R is a script to calculate area suitable for cultivation.
+
+
+
