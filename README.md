@@ -18,3 +18,11 @@ The number in the name of a directory corresponds to the section number of the s
 ## 4-1_logistic_regression
 - logistic_regression.R: a script to carry out the logistic regression.
 - make_figure5.R: a script to make figure 5 in the main text.
+
+## 4-2_glmm
+- table3_glmm_subregion.R: a script to carry out the GLMM where subregion is used as a random effect.
+- table4_glmm_subset_subregion.R: a script to carry out the GLMM where subregion is used as a random effect. Only data points with longer time intarvals (70, 80, and 100 years) are used.
+- table5_glmm_subphase.R: a script to carry out the GLMM where subphase is used as a random effect.
+- table6_glmm_subset_subphase.R: a script to carry out the GLMM where subphase is used as a random effect. Only data points with longer time intarvals (70, 80, and 100 years) are used.
+- table7_glmm_ID.R: a script to carry out the GLMM where ID is used as a random effect.
+- table8_glmm_subset_ID.R: a script to carry out the GLMM where ID is used as a random effect. Only data points with longer time intarvals (70, 80, and 100 years) are used.
