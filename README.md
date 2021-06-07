@@ -37,5 +37,5 @@ The number in the name of a directory corresponds to the section number of the s
 A directory correpsonds to a subregion. Currently, the directory for DEM files are blank. Please download files listed in filelist.txt from Geospatial Information Authority of Japan (https://fgd.gsi.go.jp/download/menu.php).
 calc_area.R is a script to calculate area suitable for cultivation.
 
-
-
+## 6_logistic_regression_with_GIS_in_R
+- logistic_regression.R: a script to carry out the logistic regression using arable area calculated with R.
